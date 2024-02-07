@@ -1,0 +1,24 @@
+Array size: 100
+Bubble sort: Sorted 100 elements in 0.35 ms (avg)
+Quick sort: 100elements in 0.0 ms (avg)
+Shell sort: 100 elements in 0.05 ms (avg)
+Insertion sort: 100 elements in0.1 ms (avg)
+selection sort: 100 elements in0.15 ms (avg)
+Array size: 500
+Bubble sort: Sorted 500 elements in 0.95 ms (avg)
+Quick sort: 500elements in 0.1 ms (avg)
+Shell sort: 500 elements in 0.35 ms (avg)
+Insertion sort: 500 elements in0.65 ms (avg)
+selection sort: 500 elements in0.65 ms (avg)
+Array size: 1000
+Bubble sort: Sorted 1000 elements in 1.6 ms (avg)
+Quick sort: 1000elements in 0.1 ms (avg)
+Shell sort: 1000 elements in 0.3 ms (avg)
+Insertion sort: 1000 elements in0.35 ms (avg)
+selection sort: 1000 elements in0.75 ms (avg)
+Array size: 2000
+Bubble sort: Sorted 2000 elements in 5.35 ms (avg)
+Quick sort: 2000elements in 0.2 ms (avg)
+Shell sort: 2000 elements in 0.2 ms (avg)
+Insertion sort: 2000 elements in1.1 ms (avg)
+selection sort: 2000 elements in2.75 ms (avg)
